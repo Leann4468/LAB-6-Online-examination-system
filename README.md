@@ -1,36 +1,35 @@
-# LAB-5-Student-registration-system
+# LAB-6-Online-examination-system
 ### AIM:
-To develop a project Student Registration System using Rational Rose Software and to
-implement the software in Java.
-### PROBLEM ANALYSIS AND PROJECT PLANNING:
-A Student Registration system (SRS) is a software application for educational
-establishments to manage student data. Student information systems provide capabilities for
-entering student test and other assessment scores, building student schedules, tracking student
-attendance, and managing many other student-related data needs in a school, college or
-university.
-### PROBLEM STATEMENT:
-a. Effective for Administration Purpose
-b. Cost effective
-c. Better Service
+To develop the Exam Registration System using Star UML tools.
+### PROBLEM STATEMENT
+1. Exam Registration System is used in the effective registration of exams to all of the
+applicants. This system adopts a comprehensive approach to minimize the manual work and
+schedule resources, time in a coherent manner.
+2. The core of the system is to get the online registration form (with details such as name,
+address etc.,) filled by the applicant whose details are later verified by the Administrator.
+3. Then the applicant needs to pay the examination fees by the interface provided in the
+Exam Registration system. After the end of the due date for submitting the form, the
+information is in turn forwarded to the administrator's view.
+4. The applications are then processed based on the information given by the applicant,
+and any forfeiting identified can make the applicant liable to penalty as per the law.
+5. The administrator after successful confirmation, initiates the process to generate the
+hall tickets for the applicants. After successful generation of hall tickets, the system delivers
+the hall ticket to the applicants. The applicants can download the hall tickets finally in the end.
 ### UML DIAGRAMS:
-### Use case diagram:
-![image](https://github.com/Leann4468/LAB-6-Online-examination-system/assets/121165979/9ee3666a-a9a7-4dc7-96f1-a616b16dd604)
-
-### class diagram:
-![image](https://github.com/Leann4468/LAB-6-Online-examination-system/assets/121165979/d6242e2c-1a7c-43f6-aa9d-2d4adf14db34)
-
-### package diagram:
-![image](https://github.com/Leann4468/LAB-6-Online-examination-system/assets/121165979/d51ac360-99e2-4c52-a59c-92c6b5381993)
-
-### sequence diagram:
-![image](https://github.com/Leann4468/LAB-6-Online-examination-system/assets/121165979/072d63cb-96e8-423a-be94-12e1a57e1ec6)
-
-### Activity diagram:
-![image](https://github.com/Leann4468/LAB-6-Online-examination-system/assets/121165979/ee4d4497-ac61-4c29-8efb-b92f36d4ec80)
-
-### Communication diagram:
-![image](https://github.com/Leann4468/LAB-6-Online-examination-system/assets/121165979/c5874e2b-1342-46e0-a8e6-314dd5330001)
-
+### USECASE DIAGRAM:
+![usecase](https://github.com/23005672/LAB-6-Online-examination-system/assets/138971519/d122cf25-c838-47e3-a2df-7b608909b618)
+### CLASS DIAGRAM:
+![class](https://github.com/23005672/LAB-6-Online-examination-system/assets/138971519/0457c7e2-07c0-4cce-bbaf-20969fbed11d)
+### ACTIVITY DIAGRAM:
+![activity](https://github.com/23005672/LAB-6-Online-examination-system/assets/138971519/ee99c811-72ff-4e55-a02e-d9e5a207edcc)
+### COMMUNICATION DIAGRAM:
+![communication](https://github.com/23005672/LAB-6-Online-examination-system/assets/138971519/5aff27c6-2a3c-4b22-950d-197464b04f2a)
+### STATECHART DIAGRAM:
+![statechart](https://github.com/23005672/LAB-6-Online-examination-system/assets/138971519/a46eea21-394a-4f18-945c-05d423e780f5)
+### SEQUENCE DIAGRAM:
+![sequence](https://github.com/23005672/LAB-6-Online-examination-system/assets/138971519/c9732d29-c0f8-424b-8dc0-0bfe1af57c8a)
+### PACKAGE DIAGRAM:
+![package](https://github.com/23005672/LAB-6-Online-examination-system/assets/138971519/c542101e-3e4e-45dc-bb51-231858490a3d)
 ### RESULT:
-Thus the Student information system project was executed and the output was
-verified.
+Thus the project to develop Exam Registration system was developed using Star UML
+Software is done successfully.
